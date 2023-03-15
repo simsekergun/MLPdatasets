@@ -1,5 +1,5 @@
 ### Photonic Crystal Fiber Dataset
-This dataset is derived from the dataset used in \href{https://doi.org/10.1364/OE.27.036414}{https://doi.org/10.1364/OE.27.036414}. If you have time, please read the paper. 
+This dataset is derived from the dataset used in {https://doi.org/10.1364/OE.27.036414}. If you have time, please read the paper. 
 
 
 

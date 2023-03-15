@@ -9,7 +9,7 @@ This dataset is derived from the dataset used in {https://doi.org/10.1364/OE.27.
 - Pitch length ($\mu$m)
 - Radius of the fiber normalized by number of the rings ($\mu$/m). 		
 
-
+![](https://github.com/simsekergun/MLPdatasets/blob/main/PCF/figure2.png)
 
 ####  Outputs (Dependent Variables): Optical properties of photonic crsytal fibers (PCFs)
 - Effective index 

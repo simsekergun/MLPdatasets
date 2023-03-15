@@ -1,6 +1,6 @@
 The first column of this dataset is some $x$ values and the second column is $f(x)$
 
-!()[https://github.com/simsekergun/MLPdatasets/blob/main/FunctionFitting/clean_data.png]
+![Visualization of the data](https://github.com/simsekergun/MLPdatasets/blob/main/FunctionFitting/clean_data.png)
 
 We know that $f(x)$ is in the following form but we don't know what $\alpha$ values we should use. Your second task is finding these $\alpha$ values with $\textsf{fsolve}$ (either in MATLAB or Python). 
 
